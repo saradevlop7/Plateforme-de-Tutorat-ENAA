@@ -39,6 +39,7 @@
     <div class="w-1/2 h-screen">
 
         <img
+        
             src="web-hosting-development-connection-networking-concept.jpg"
             alt="Learning"
             class="w-full h-full object-cover"
