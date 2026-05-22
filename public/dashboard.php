@@ -41,6 +41,7 @@ if ($selected !== "ALL") {
 <body class="bg-gray-100">
 
 <div class="max-w-5xl mx-auto p-10">
+    <a href="index.php"><-</a>
 
     <h1 class="text-3xl font-bold mb-8 text-blue-600">
         Liste des Tickets

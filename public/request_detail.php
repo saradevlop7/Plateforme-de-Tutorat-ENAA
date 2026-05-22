@@ -12,6 +12,7 @@
 <body class="bg-gray-100">
 
 <div class="max-w-2xl mx-auto p-10">
+    <a href="dashboard.php"><-</a>
 
     <div class="bg-white p-8 rounded-xl shadow">
 
