@@ -6,6 +6,7 @@ require_once __DIR__ . "/../src/Entities/HelpRequest.php";
 $student = new User(
     "Sara",
     "sara@gmail.com",
+    
     "1234",
     "student"
 );
